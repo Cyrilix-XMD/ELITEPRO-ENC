@@ -225,7 +225,7 @@ bot.command('start', async (ctx) => {
         caption: `
 \`\`\`
 ╭━━━⊱  𝐄𝐥 - 𝐒𝐚𝐥𝐯𝐚𝐝𝐨𝐫   ━━━━━❍
-┃▢ Developer : https://t.me/+5k-HpfOp-Aw1YzA8
+┃▢ Developer : Chinedu 
 ┃▢ Version : 1.0 GlX
 ┃▢ Runtime : ${waktuRunPanel}
 ┃▢ Language : JavaScript
