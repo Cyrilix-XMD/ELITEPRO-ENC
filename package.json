@@ -1,6 +1,6 @@
 {
-    "name": "INDICTIVE FOREVER",
-    "version": "4.0",
+    "name": "indictive-forever",
+    "version": "4.0.0",
     "description": "@AiiSigma",
     "main": "index.js",
     "scripts": {
