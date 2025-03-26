@@ -2676,5 +2676,3 @@ await N7(target);
     console.log(chalk.bold.white("VERSION:") + chalk.bold.blue("I\n\n"));
     console.log(chalk.bold.green("Bot Is Running. . ."));
 })();
-/*
- ~ https://t.me/+5k-HpfOp-Aw1YzA8
