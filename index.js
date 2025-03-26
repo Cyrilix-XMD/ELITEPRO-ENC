@@ -21,7 +21,6 @@ const axios = require("axios");
 const JsConfuser = require('js-confuser')
 const { deobfuscate } = require('obfuscator-io-deobfuscator');
 const cheerio = require("cheerio");
-const FormData = require("form-data");
 
 //gtw sih wir pas di dec ada require ini jadi gw tambahin dah tuh file
 const obfuscateCode = require('./toolsobf');
