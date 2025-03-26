@@ -4,5 +4,5 @@
 
 module.exports = {
   BOT_TOKEN:
-  "botekn",
+  "7842092431:AAEl9ShXQAQGRtjE1AsOFSeWxpHo1ZVFEgU",
 };
