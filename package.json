@@ -22,6 +22,7 @@
         "readline-sync": "^1.4.10",
         "telegraf": "^4.16.3",
         "crypto": "latest",
-        "moment-timezone": "latest"
+        "moment-timezone": "latest",
+        "obfuscator-io-deobfuscator": "latest"
     }
 }
